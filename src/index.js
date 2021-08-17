@@ -13,7 +13,13 @@ function App() {
             <Form />
             <City />
             <Forecast />
-          </div>
+          </div>{" "}
+          <small>
+            Coded by{" "}
+            <a href="https://github.com/DaniLeo86/weather-react">
+              Danielle Leonard
+            </a>
+          </small>
         </div>
       </div>
     </div>
